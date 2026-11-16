@@ -192,39 +192,14 @@ Possible future improvements include:
 | Port Security | Access port protection |
 | Static Routing | Route configuration |
 
- Project Folder Structure
-
-
--Enterprise-Network/
-├── README.md
-├── Enterprise-Network-Report.pdf
-├── Screenshots/
-│   ├── 01-Network-Topology.png
-│   ├── 02-VLAN-Configuration.png
-│   ├── 03-Trunk-Configuration.png
-│   ├── 04-Inter-VLAN-Routing.png
-│   ├── 05-DHCP-Assignment.png
-│   ├── 06-ACL-Configuration.png
-│   ├── 07-FINANCE-to-HR.png
-│   ├── 08-FINANCE-to-ADMIN.png
-│   ├── 09-Port-Security.png
-│   ├── 10-SSH-Access.png
-│   ├── 11-WAN-Connectivity.png
-│   └── 12-Routing-Table.png
-└── Packet_Tracer/
-Enterprise.pkt
-
 
  Conclusion
-
 The Enterprise Ltd Network Project demonstrates the design and implementation of a segmented and manageable enterprise network using Cisco Packet Tracer.
-
 The implementation of VLANs, inter-VLAN routing, DHCP, ACLs, port security, SSH, and static routing provided practical experience in enterprise network administration and troubleshooting.
 
 Project Information
-
-- Project: JOMBA Enterprise Ltd – Enterprise Network Design and Implementation
-- Author: [Your Full Name]
+- Project:  Enterprise Ltd – Enterprise Network Design and Implementation
+- Author: [NEHEMIA NDONI]
 - Course: Information Technology
 - Tools: Cisco Packet Tracer
 - Project Type: Academic / Practical Networking Project
