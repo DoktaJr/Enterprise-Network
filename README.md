@@ -38,7 +38,7 @@ Network Topology
 
 The network consists of an enterprise router, a simulated ISP router, one core multilayer switch, two access switches, departmental computers, and a server.
 
-![Enterprise Network Topology](Screenshots/01-Network-Topology.png)
+![01-Network-Topology](Screenshots/01-Network-Topology.png)
 
 Network Devices
 
